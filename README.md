@@ -63,20 +63,19 @@ The objective of this project is to analyze restaurant data and transform the fi
 - `page1-execution-overview.png` — Execution Overview dashboard
 - `page2-business-analysis.png` — Business Analysis dashboard
 - `page3-business-insights.png` — Business Insights dashboard
-
 ## 📸 Dashboard Preview
 
 ### Execution Overview
 
-![Execution Overview](page1-execution-overview.png)
+![Execution Overview](./page1-execution-overview.png)
 
 ### Business Analysis
 
-![Business Analysis](page2-business-insights.png)
+![Business Analysis](./page2-business-analysis.png)
 
 ### Business Insights
 
-![Business Insights](page3-business-analysis.png)
+![Business Insights](./page3-business-insights.png)
 
 ## 💡 Business Value
 
