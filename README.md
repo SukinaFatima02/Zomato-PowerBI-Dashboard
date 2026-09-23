@@ -72,11 +72,11 @@ The objective of this project is to analyze restaurant data and transform the fi
 
 ### Business Analysis
 
-![Business Analysis](page2-business-analysis.png)
+![Business Analysis](page2-business-insights.png)
 
 ### Business Insights
 
-![Business Insights](page3-business-insights.png)
+![Business Insights](page3-business-analysis.png)
 
 ## 💡 Business Value
 
